@@ -1,0 +1,70 @@
+T1	LOC 38 44	Verdun
+T2	MISC 75 84	Verdunois
+T3	PER 139 157	Christian Langlois
+T4	PER 164 178	Patrice Lanini
+T5	ORG 199 202	CGT
+T6	ORG 207 226	Rapides de la Meuse
+T7	MISC 269 273	juge
+T8	PER 274 291	Armand Riberolles
+T9	MISC 333 342	promoteur
+T10	PER 343 359	Jean-Claude Méry
+T11	PER 454 470	Francis Poullain
+T12	LOC 512 518	France
+T13	LOC 524 531	Afrique
+T14	PER 560 579	François Mitterrand
+T15	MISC 592 613	ministre des Colonies
+T16	PER 636 649	René Bousquet
+T17	ORG 666 684	Banque d'Indochine
+T18	MISC 691 702	17 mai 2004
+T19	MISC 713 721	ministre
+T20	MISC 736 742	Budget
+T21	PER 743 758	Michel Charasse
+T22	LOC 828 834	Taïwan
+T23	PER 1008 1022	Blanche Maupas
+T24	MISC 1083 1093	Le Fusillé
+T25	PER 1151 1156	Tardi
+T26	MISC 1275 1281	Angiox
+T27	PER 1485 1500	Nicolas Sarkozy
+T28	MISC 1535 1549	septembre 2004
+T29	MISC 1617 1621	2006
+T30	MISC 1623 1639	Hypersensibilité
+T31	ORG 1758 1787	Direction générale des impôts
+T32	ORG 1789 1792	DGI
+T33	ORG 1806 1824	parquet de Créteil
+T34	PER 1870 1886	Francis Poullain
+T35	ORG 2024 2028	OPAC
+T36	ORG 2030 2097	Office public d'aménagement et de construction de la ville de Paris
+T37	LOC 2092 2097	Paris
+T38	MISC 2193 2200	Aclasta
+T39	MISC 2540 2548	scandale
+T40	MISC 2560 2573	site internet
+T41	ORG 2574 2582	Stop USA
+T42	MISC 2585 2593	Frégates
+T43	LOC 2597 2603	Taïwan
+T44	PER 2606 2614	Charasse
+T45	ORG 2626 2628	AP
+T46	MISC 2630 2641	28 mai 2004
+T47	ORG 2724 2734	Commission
+T48	ORG 2761 2768	Conseil
+T49	ORG 2784 2793	Parlement
+T50	ORG 3086 3092	comité
+T51	MISC 3157 3173	maladie de Paget
+T52	MISC 3175 3182	Aclasta
+T53	MISC 3210 3221	risédronate
+T54	MISC 3258 3264	Angiox
+T55	ORG 3307 3317	groupe EDD
+T56	ORG 3348 3350	UE
+T57	LOC 3387 3400	États membres
+T58	PER 3577 3588	Andrew Wang
+T59	LOC 3676 3682	Europe
+T60	MISC 3867 3881	juges français
+T61	MISC 3941 3946	veuve
+T62	PER 3950 3966	Théophile Maupas
+T63	ORG 3984 4011	Ligue des droits de l'Homme
+T64	MISC 4115 4142	caporaux fusillés de Souain
+T65	MISC 4205 4212	Aclasta
+T66	LOC 4467 4475	Lubljana
+T67	PER 4488 4503	Stanley Kubrick
+T68	MISC 4505 4530	Les Sentiers de la gloire
+T69	MISC 4597 4621	Première Guerre mondiale
+T70	MISC 4743 4750	Aclasta

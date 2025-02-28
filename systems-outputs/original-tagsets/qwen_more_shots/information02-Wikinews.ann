@@ -1,0 +1,81 @@
+T1	ORG 0 5	Valve
+T2	MISC 71 82	9 mars 2018
+T3	ORG 88 91	M5S
+T4	MISC 349 372	mandat d'arrêt européen
+T5	MISC 397 412	2 novembre 2017
+T6	LOC 434 442	Belgique
+T7	MISC 464 474	5 décembre
+T8	MISC 483 500	justice espagnole
+T9	MISC 519 531	juges belges
+T10	MISC 671 677	groupe
+T11	ORG 681 684	CRS
+T12	LOC 756 767	Royaume-Uni
+T14	ORG 844 852	Facebook
+T15	ORG 855 861	Google
+T16	ORG 912 919	AdWords
+T17	MISC 961 993	forces de défense et de sécurité
+T18	LOC 994 1004	Burkinabés
+T19	ORG 1064 1069	Valve
+T20	MISC 1119 1134	wikimédien.ne.s
+T21	LOC 1174 1181	Algérie
+T22	LOC 1184 1190	Égypte
+T23	LOC 1193 1201	Cameroun
+T24	LOC 1204 1211	Nigéria
+T25	LOC 1222 1243	Glacier Perito Moreno
+T26	MISC 1254 1272	Patrimoine mondial
+T27	ORG 1278 1284	UNESCO
+T28	MISC 1337 1342	homme
+T29	LOC 1343 1351	marocain
+T30	ORG 1396 1401	Daesh
+T31	MISC 1432 1442	Tiangong-1
+T32	ORG 1472 1489	agence européenne
+T33	ORG 1513 1530	agences spatiales
+T34	MISC 1575 1580	rover
+T35	MISC 1591 1600	Curiosity
+T36	ORG 1699 1703	NASA
+T37	MISC 1729 1757	télescope spatial James Webb
+T38	MISC 1778 1785	tsunami
+T39	MISC 1792 1823	Accident nucléaire de Fukushima
+T40	LOC 1829 1834	Japon
+T41	MISC 2083 2089	Hubble
+T42	MISC 2162 2169	Saturne
+T43	ORG 2186 2190	SoHO
+T44	LOC 2450 2461	Carcassonne
+T45	MISC 2616 2622	groupe
+T46	ORG 2623 2630	Bolloré
+T47	ORG 2632 2638	Canal+
+T48	LOC 2740 2750	États-Unis
+T49	LOC 2770 2780	Californie
+T50	EVENT 2825 2843	Jeux Paralympiques
+T51	LOC 2849 2855	Suisse
+T52	MISC 2871 2883	10 mars 2018
+T53	MISC 2898 2923	station spatiale chinoise
+T54	MISC 2924 2934	Tiangong-1
+T55	LOC 2949 2954	Terre
+T56	LOC 3070 3079	Pacifique
+T57	MISC 3353 3401	Championnats du monde junior de short-track 2018
+T58	MISC 3425 3436	3 mars 2018
+T59	LOC 3503 3514	Royaume-Uni
+T60	MISC 3526 3548	prix Nobel de médecine
+T61	PER 3549 3561	John Sulston
+T62	LOC 3607 3613	Suisse
+T63	MISC 3637 3650	prise d’otage
+T64	MISC 3699 3717	maison de retraite
+T65	MISC 3883 3903	vendredi 2 mars 2018
+T66	LOC 3988 3999	Ouagadougou
+T67	LOC 4017 4029	Burkina-Faso
+T68	ORG 4297 4310	Sesame Street
+T69	PER 4347 4358	Turk Murphy
+T70	PER 4377 4390	Donald Hadley
+T71	ORG 4415 4449	LVMH - Moët Hennessy Louis Vuitton
+T72	LOC 4650 4656	France
+T73	ORG 4662 4676	Front National
+T74	MISC 4716 4728	11 mars 2018
+T75	LOC 4760 4765	Terre
+T76	LOC 4785 4789	Mars
+T77	MISC 4957 4985	télescope spatial James Webb
+T78	MISC 5231 5246	Jeux olympiques
+T79	LOC 5248 5255	Espagne
+T80	MISC 5258 5296	Grève générale inédite pour les femmes
+T81	MISC 5298 5309	8 mars 2018
+T82	ORG 5355 5358	AFP

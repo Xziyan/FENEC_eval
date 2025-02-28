@@ -1,0 +1,56 @@
+T1	MISC 19 24	ville
+T2	LOC 72 77	Capte
+T3	LOC 79 84	Giens
+T4	LOC 88 97	Almanarre
+T5	LOC 101 108	Ayguade
+T6	LOC 113 119	Pyanet
+T7	LOC 121 131	Costebelle
+T8	LOC 137 152	Salins-d'Hyères
+T9	LOC 160 167	Borrels
+T10	MISC 179 186	El Niño
+T11	PER 282 292	Shusterman
+T12	MISC 357 378	Practicing Philosophy
+T13	MISC 387 402	Performing Live
+T14	MISC 413 430	Surface and Depth
+T15	MISC 444 457	ndranghetiste
+T16	MISC 466 470	grec
+T17	MISC 557 570	antisémitisme
+T18	LOC 686 692	France
+T19	LOC 743 752	Hollywood
+T20	ORG 825 844	Metro-Goldwyn-Mayer
+T21	PER 914 920	Adrian
+T22	ORG 925 946	Centrale féline Belge
+T23	ORG 948 951	CFB
+T24	PER 1098 1115	Hugues Mingarelli
+T25	ORG 1044 1046	UE
+T26	MISC 1810 1828	grandes métropoles
+T27	MISC 1885 1901	petites communes
+T28	ORG 2015 2052	représentation diplomatique espagnole
+T29	LOC 2067 2072	Maroc
+T30	LOC 2186 2193	Afrique
+T31	LOC 2201 2209	Antilles
+T32	MISC 2532 2548	Premier ministre
+T33	PER 2549 2566	Margaret Thatcher
+T34	LOC 2649 2663	Downing Street
+T35	MISC 2772 2779	concile
+T36	LOC 2787 2794	Saintes
+T37	MISC 2819 2836	évêque de Saintes
+T38	PER 2837 2842	Boson
+T39	MISC 2851 2873	archevêque de Bordeaux
+T40	PER 2874 2882	Joscelin
+T41	MISC 2899 2914	duc d'Aquitaine
+T42	MISC 3182 3193	entreprises
+T43	MISC 3366 3380	arrondissement
+T44	LOC 3384 3394	Leeuwarden
+T45	LOC 3470 3475	Frise
+T46	MISC 3791 3830	journée mondiale des droits de l'enfant
+T47	ORG 3860 3898	Fonds des Nations unies pour l'enfance
+T48	ORG 4464 4495	Collégiale Royale Sainte-Marthe
+T49	MISC 4504 4510	église
+T50	LOC 4527 4535	Tarascon
+T51	LOC 4569 4585	Bouches-du-Rhône
+T52	LOC 4692 4703	monts Oural
+T53	LOC 4831 4836	Paris
+T54	MISC 4920 4938	présence militaire
+T55	MISC 4975 4995	Révolution française
+T56	MISC 5000 5007	château

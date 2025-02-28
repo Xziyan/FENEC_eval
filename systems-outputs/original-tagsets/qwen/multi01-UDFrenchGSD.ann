@@ -1,0 +1,65 @@
+T1	LOC 69 77	La Capte
+T2	LOC 79 84	Giens
+T3	LOC 88 97	Almanarre
+T4	LOC 101 108	Ayguade
+T5	LOC 113 119	Pyanet
+T6	LOC 121 131	Costebelle
+T7	LOC 137 152	Salins-d'Hyères
+T8	LOC 160 167	Borrels
+T9	MISC 179 186	El Niño
+T10	MISC 220 230	sécheresse
+T11	MISC 249 263	vague de froid
+T12	LOC 276 280	pays
+T13	PER 282 292	Shusterman
+T14	MISC 357 378	Practicing Philosophy
+T15	MISC 387 402	Performing Live
+T16	MISC 413 430	Surface and Depth
+T17	MISC 444 457	ndranghetiste
+T18	MISC 462 470	mot grec
+T19	MISC 471 481	Andragatos
+T20	LOC 743 752	Hollywood
+T21	ORG 825 844	Metro-Goldwyn-Mayer
+T22	PER 914 920	Adrian
+T23	ORG 925 952	Centrale féline Belge (CFB)
+T24	MISC 941 946	belge
+T25	PER 1098 1115	Hugues Mingarelli
+T26	ORG 1044 1046	UE
+T27	MISC 1257 1263	patron
+T28	MISC 1530 1544	fusion TEP-TDM
+T29	MISC 1548 1572	correction d'atténuation
+T30	MISC 1655 1697	examen scano-angiographique des coronaires
+T31	MISC 1701 1718	scanner coronaire
+T32	MISC 1810 1828	grandes métropoles
+T33	MISC 1885 1901	petites communes
+T34	MISC 1996 2052	responsables de la représentation diplomatique espagnole
+T35	LOC 2067 2072	Maroc
+T36	LOC 2186 2193	Afrique
+T37	LOC 2201 2209	Antilles
+T38	MISC 2532 2548	Premier ministre
+T39	PER 2549 2566	Margaret Thatcher
+T40	LOC 2649 2663	Downing Street
+T41	MISC 2738 2747	fondation
+T42	MISC 2772 2779	concile
+T43	LOC 2787 2794	Saintes
+T44	PER 2819 2842	évêque de Saintes Boson
+T45	PER 2851 2882	archevêque de Bordeaux Joscelin
+T46	PER 2899 2914	duc d'Aquitaine
+T47	MISC 3182 3193	entreprises
+T48	MISC 3270 3279	publicité
+T49	LOC 3366 3394	arrondissement de Leeuwarden
+T50	LOC 3470 3475	Frise
+T51	MISC 3791 3830	journée mondiale des droits de l'enfant
+T52	MISC 3832 3843	20 novembre
+T53	ORG 3860 3898	Fonds des Nations unies pour l'enfance
+T54	MISC 4212 4221	testament
+T55	PER 4253 4268	Narcisse Pigeon
+T56	MISC 4282 4306	brevet de pilote d'avion
+T57	LOC 4321 4325	camp
+T58	MISC 4464 4495	Collégiale Royale Sainte-Marthe
+T59	LOC 4527 4535	Tarascon
+T60	LOC 4569 4585	Bouches-du-Rhône
+T61	LOC 4692 4703	monts Oural
+T62	LOC 4831 4836	Paris
+T63	MISC 4929 4938	militaire
+T64	MISC 4975 4995	Révolution française
+T65	LOC 5000 5007	château

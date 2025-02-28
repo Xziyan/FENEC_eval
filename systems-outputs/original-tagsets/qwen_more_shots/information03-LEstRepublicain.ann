@@ -1,0 +1,67 @@
+T1	ORG 124 140	Lutins du Villon
+T2	ORG 142 148	CAF 70
+T3	LOC 150 171	cours François-Villon
+T4	MISC 259 273	commerce local
+T5	LOC 352 357	bourg
+T6	LOC 364 370	canton
+T7	LOC 395 404	Grand Est
+T8	LOC 413 421	Bas-Rhin
+T9	LOC 426 435	Haut-Rhin
+T10	LOC 440 458	Meurthe et Moselle
+T11	LOC 451 458	Moselle
+T12	LOC 475 480	Doubs
+T13	LOC 486 492	Vosges
+T14	LOC 499 516	région parisienne
+T15	PER 560 567	Thierry
+T16	MISC 605 622	conseil municipal
+T17	PER 1017 1027	Guy Flégny
+T18	ORG 1044 1064	amicale de la police
+T19	PER 1162 1181	Gilbert Franchequin
+T20	MISC 1269 1283	cheval comtois
+T21	LOC 1426 1444	Nord-Pas de Calais
+T22	LOC 1473 1480	Roubaix
+T23	ORG 1508 1523	conseil général
+T24	LOC 1578 1598	ville de Neufchâteau
+T25	ORG 1660 1695	Maison des parents de Franche-Comté
+T26	LOC 1707 1715	Besançon
+T27	MISC 1719 1732	décembre 2001
+T28	ORG 1756 1800	Fondation des Hôpitaux de Paris et de France
+T29	LOC 1885 1905	écrans pontissaliens
+T30	PER 2060 2078	Julien Groslambert
+T31	ORG 2270 2285	EST RÉPUBLICAIN
+T32	LOC 2302 2320	Faubourg de France
+T33	LOC 2431 2437	Verdun
+T34	MISC 2475 2478	roi
+T35	PER 2479 2485	Albert
+T36	LOC 2489 2497	Belgique
+T37	MISC 2574 2586	Ambulanciers
+T38	ORG 2612 2630	Office du Tourisme
+T39	MISC 2640 2650	cathédrale
+T40	LOC 2674 2685	Belfortaine
+T41	ORG 2765 2780	EST REPUBLICAIN
+T42	PER 2781 2798	Jacques Vuillemez
+T43	LOC 2826 2833	Morteau
+T44	PER 2868 2873	Aysel
+T45	PER 2877 2882	Dogan
+T46	LOC 2906 2917	Bethoncourt
+T47	MISC 2984 2994	Résistance
+T48	PER 3181 3197	Bertrand Ternard
+T49	ORG 3225 3242	Ligue de Lorraine
+T50	ORG 3260 3288	école du Château de Commercy
+T51	LOC 3269 3288	Château de Commercy
+T52	MISC 3539 3551	club de foot
+T53	MISC 3553 3559	tennis
+T54	MISC 3563 3569	basket
+T55	LOC 3572 3579	Amancey
+T56	MISC 3584 3588	taxi
+T57	PER 3710 3719	Brindille
+T58	LOC 3748 3776	station des taxis de la gare
+T59	LOC 3887 3900	Saint-Maurice
+T60	MISC 3963 3980	planète au trésor
+T61	PER 3994 4008	Patrick Alotto
+T62	ORG 4034 4047	Saint-Gervais
+T63	LOC 4087 4093	Epinal
+T64	ORG 4127 4157	EQUIPE D'ANIMATION PAROISSIALE
+T65	LOC 4293 4301	Besançon
+T66	MISC 4335 4350	pères Chartreux
+T67	MISC 4435 4440	Moine

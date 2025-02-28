@@ -1,0 +1,95 @@
+T1	ORG 0 5	Valve
+T2	MISC 20 24	jeux
+T3	MISC 71 82	9 mars 2018
+T4	ORG 88 91	M5S
+T5	MISC 172 188	revenu universel
+T6	MISC 206 225	impôt sur le revenu
+T7	MISC 245 271	coûts de garde des enfants
+T8	MISC 295 313	traités bilatéraux
+T9	MISC 333 344	clandestins
+T10	MISC 349 372	mandat d'arrêt européen
+T11	MISC 397 412	2 novembre 2017
+T12	LOC 434 442	Belgique
+T13	MISC 464 474	5 décembre
+T14	ORG 483 500	justice espagnole
+T15	PER 519 531	juges belges
+T16	MISC 606 610	1952
+T17	MISC 624 641	maison de couture
+T18	ORG 681 684	CRS
+T19	LOC 756 767	Royaume-Uni
+T21	ORG 844 852	Facebook
+T22	ORG 855 861	Google
+T23	MISC 912 919	AdWords
+T24	MISC 961 1004	forces de défense et de sécurité burkinabés
+T25	MISC 1033 1044	assaillants
+T26	ORG 1064 1069	Valve
+T27	MISC 1119 1134	wikimédien.ne.s
+T28	LOC 1158 1172	pays africains
+T29	LOC 1174 1181	Algérie
+T30	LOC 1184 1190	Égypte
+T31	LOC 1193 1201	Cameroun
+T32	LOC 1204 1211	Nigéria
+T33	LOC 1222 1243	Glacier Perito Moreno
+T34	MISC 1254 1272	Patrimoine mondial
+T35	ORG 1278 1284	UNESCO
+T36	MISC 1337 1351	homme marocain
+T37	ORG 1396 1401	Daesh
+T38	MISC 1432 1442	Tiangong-1
+T39	ORG 1472 1489	agence européenne
+T40	MISC 1513 1530	agences spatiales
+T41	MISC 1575 1600	rover jumeau de Curiosity
+T42	ORG 1699 1703	NASA
+T43	MISC 1729 1757	télescope spatial James Webb
+T44	MISC 1778 1785	tsunami
+T45	MISC 1792 1823	Accident nucléaire de Fukushima
+T46	LOC 1829 1834	Japon
+T47	MISC 2083 2089	Hubble
+T48	MISC 2135 2145	exoplanète
+T49	MISC 2162 2169	Saturne
+T50	MISC 2171 2183	10 mars 2018
+T51	MISC 2186 2190	SoHO
+T52	MISC 2233 2251	éruptions solaires
+T53	MISC 2259 2286	éjections de masse coronale
+T54	MISC 2411 2429	atmosphère solaire
+T55	LOC 2450 2461	Carcassonne
+T56	MISC 2569 2587	astromobile témoin
+T58	ORG 2632 2638	Canal+
+T59	LOC 2740 2750	États-Unis
+T60	LOC 2770 2780	Californie
+T61	MISC 2810 2822	10 mars 2018
+T62	MISC 2825 2843	Jeux Paralympiques
+T63	LOC 2849 2855	Suisse
+T64	MISC 2871 2883	10 mars 2018
+T65	MISC 2898 2934	station spatiale chinoise Tiangong-1
+T66	LOC 3070 3079	Pacifique
+T69	MISC 3353 3401	Championnats du monde junior de short-track 2018
+T70	MISC 3425 3436	3 mars 2018
+T71	LOC 3503 3514	Royaume-Uni
+T72	MISC 3526 3548	prix Nobel de médecine
+T73	PER 3549 3561	John Sulston
+T74	MISC 3563 3575	10 mars 2018
+T75	LOC 3607 3613	Suisse
+T76	MISC 3617 3629	20 mars 2018
+T77	MISC 3637 3650	prise d’otage
+T78	LOC 3699 3717	maison de retraite
+T79	MISC 3731 3750	anciens combattants
+T80	MISC 3892 3903	2 mars 2018
+T81	LOC 3988 3999	Ouagadougou
+T82	MISC 4005 4013	capitale
+T83	LOC 4017 4029	Burkina-Faso
+T84	MISC 4297 4310	Sesame Street
+T85	PER 4347 4358	Turk Murphy
+T86	PER 4377 4390	Donald Hadley
+T87	ORG 4415 4449	LVMH - Moët Hennessy Louis Vuitton
+T88	LOC 4650 4656	France
+T89	ORG 4662 4676	Front National
+T90	LOC 4760 4765	Terre
+T91	LOC 4785 4789	Mars
+T92	MISC 4957 4985	télescope spatial James Webb
+T93	LOC 5117 5122	océan
+T94	LOC 5159 5164	globe
+T95	MISC 5231 5246	Jeux olympiques
+T96	LOC 5248 5255	Espagne
+T97	MISC 5258 5296	Grève générale inédite pour les femmes
+T98	MISC 5298 5309	8 mars 2018
+T99	ORG 5355 5358	AFP

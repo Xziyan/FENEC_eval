@@ -1,0 +1,47 @@
+T1	ORG 13 27	lycée Stendhal
+T2	LOC 324 342	Maison du tourisme
+T3	ORG 619 653	Chambre de Commerce et d'Industrie
+T4	MISC 1004 1016	gouvernement
+T5	MISC 1048 1057	aisthesis
+T6	MISC 1066 1081	abstentionnisme
+T7	LOC 1226 1234	Mulhouse
+T8	PER 1297 1311	Maxi Rodriguez
+T9	PER 1335 1344	Gutiérrez
+T10	MISC 1442 1463	fonctions religieuses
+T11	MISC 1476 1501	fonctions presque sacrées
+T12	MISC 1612 1630	évènements récents
+T13	MISC 1765 1773	Français
+T14	MISC 1891 1898	tchater
+T15	PER 2056 2063	Charlot
+T16	PER 2271 2275	Gago
+T17	LOC 2343 2349	Aligre
+T18	ORG 2378 2391	A Small World
+T19	PER 2432 2449	Quentin Tarantino
+T20	PER 2471 2483	Paris Hilton
+T21	PER 2513 2527	Massimo Gargia
+T22	PER 2624 2629	Messi
+T23	PER 2646 2650	Papa
+T24	PER 2662 2671	Gutiérrez
+T25	ORG 2738 2754	équipe de France
+T26	LOC 3024 3040	équipe de France
+T27	LOC 3057 3066	Argentins
+T28	ORG 3214 3230	L' Union à Reims
+T29	LOC 3693 3707	La Nef Chavant
+T30	MISC 4003 4010	poïésis
+T31	MISC 4026 4032	poésie
+T32	MISC 4037 4046	aisthesis
+T33	MISC 4064 4074	esthétique
+T34	MISC 4111 4121	Françaises
+T35	MISC 4111 4119	Français
+T36	LOC 4137 4146	métropole
+T37	LOC 4150 4161	outre - mer
+T38	LOC 4168 4176	étranger
+T39	PER 4263 4269	Agüero
+T40	PER 4279 4288	Rodriguez
+T41	MISC 4316 4325	Argentins
+T42	PER 4345 4353	Maradona
+T43	PER 4404 4411	Chaplin
+T44	PER 4580 4594	Steve Mandanda
+T45	MISC 4316 4325	Argentins
+T46	LOC 4685 4691	France
+T47	MISC 4989 4992	PCB

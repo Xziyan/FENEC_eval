@@ -1,0 +1,43 @@
+T1	PER 90 99	Alexandre
+T2	MISC 116 121	poëte
+T3	PER 283 287	Lisa
+T4	ORG 354 363	gendarmes
+T5	PER 737 742	Saget
+T6	PER 900 907	Florent
+T7	MISC 941 949	portière
+T8	MISC 961 967	francs
+T9	PER 1514 1520	Gavard
+T10	PER 1546 1557	jeune homme
+T11	LOC 1689 1704	rue Montorgueil
+T12	ORG 1932 1935	IRS
+T13	MISC 1947 1952	brune
+T14	MISC 1966 1977	tablettière
+T15	MISC 1983 1995	poissonnerie
+T16	PER 2008 2015	Méhudin
+T17	PER 2105 2112	Méhudin
+T18	MISC 2206 2220	bras de marbre
+T19	MISC 2224 2239	lutteur antique
+T20	LOC 2271 2277	jardin
+T21	MISC 2314 2325	marronniers
+T22	MISC 2331 2345	petites filles
+T23	MISC 2356 2363	cerceau
+T24	PER 2855 2859	Lisa
+T25	PER 2861 2868	Florent
+T26	MISC 2911 2925	sacs grisâtres
+T27	MISC 2941 2956	sacs de charbon
+T28	MISC 3057 3071	algues marines
+T29	MISC 3141 3147	moules
+T30	PER 3287 3294	Charvet
+T31	PER 3362 3370	Clémence
+T32	PER 3434 3441	Lecoeur
+T33	PER 3524 3529	Quenu
+T34	MISC 3542 3557	foies de cochon
+T35	MISC 3601 3613	gouvernement
+T36	PER 3783 3790	Florent
+T37	PER 3922 3938	monsieur Lebigre
+T38	PER 4132 4136	Lisa
+T39	LOC 4149 4163	Saint-Eustache
+T40	MISC 4346 4352	boudin
+T41	MISC 4359 4367	saindoux
+T42	PER 4386 4393	Pauline
+T43	PER 4724 4731	Florent

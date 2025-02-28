@@ -1,0 +1,116 @@
+T1	ORG 33 45	J. C. Penney
+T2	PER 123 143	Dwight D. Eisenhower
+T3	LOC 174 182	Maryland
+T4	MISC 209 227	groupe d'antilopes
+T5	MISC 287 306	troisième président
+T6	LOC 311 321	États-Unis
+T7	MISC 423 432	téléphone
+T8	LOC 523 529	nation
+T9	LOC 543 548	Kaaba
+T10	MISC 596 614	émission télévisée
+T11	MISC 616 636	Good Morning America
+T12	MISC 735 742	enzymes
+T13	MISC 773 783	télévision
+T14	PER 812 818	Mozart
+T15	MISC 841 845	îles
+T16	LOC 856 865	Indonésie
+T17	MISC 889 916	Jonathan Livingston goëland
+T18	MISC 940 960	Pit and the Pendulum
+T19	LOC 1054 1062	Oklahoma
+T20	MISC 1080 1084	État
+T21	PER 1109 1126	Charles Lindbergh
+T22	MISC 1151 1167	coupe de cheveux
+T23	MISC 1196 1214	recrues militaires
+T24	PER 1236 1246	Tom Cruise
+T25	PER 1268 1280	Jane Goodall
+T26	LOC 1332 1341	Thaïlande
+T27	LOC 1372 1379	Seattle
+T28	MISC 1403 1419	Huckleberry Finn
+T29	PER 1441 1455	John Steinbeck
+T30	MISC 1474 1477	TMJ
+T31	PER 1497 1509	Nicolas Cage
+T32	MISC 1545 1552	mercure
+T33	LOC 1617 1622	Japon
+T34	MISC 1649 1658	bébé lion
+T35	PER 1688 1700	Warren Spahn
+T36	MISC 1752 1762	21 saisons
+T37	MISC 1771 1784	ligue majeure
+T38	LOC 1806 1816	États-Unis
+T39	MISC 1844 1853	Big Muddy
+T40	PER 1866 1879	Deng Xiaoping
+T41	MISC 1894 1905	compositeur
+T42	MISC 1906 1915	américain
+T43	MISC 1938 1953	West Side Story
+T44	ORG 1971 2000	université Prairie View A & M
+T45	MISC 2019 2030	brontosaure
+T46	LOC 2075 2082	Ukraine
+T47	LOC 2089 2095	Russie
+T48	MISC 2119 2133	attrape-mouche
+T49	LOC 2137 2142	Vénus
+T50	PER 2161 2179	Martin Luther King
+T51	ORG 2196 2202	NASDAQ
+T52	MISC 2226 2232	phobie
+T53	MISC 2236 2246	chiffre 13
+T54	MISC 2265 2272	Muppets
+T55	LOC 2278 2292	aéroport Logan
+T56	MISC 2319 2338	jour de la Bastille
+T57	MISC 2381 2394	Pines of Rome
+T58	MISC 2409 2414	reine
+T59	LOC 2418 2426	Hollande
+T60	MISC 2481 2494	Strike Eagles
+T61	MISC 2498 2502	1990
+T62	MISC 2524 2537	corps calleux
+T63	PER 2560 2570	Bob Marley
+T64	MISC 2589 2614	aide au logement étudiant
+T65	MISC 2665 2682	réduction d'impôt
+T66	ORG 2740 2750	Greenpeace
+T67	MISC 2762 2767	fondé
+T68	MISC 2782 2794	indépendance
+T69	LOC 2798 2805	Mexique
+T70	PER 2881 2896	Guillermo Ortiz
+T71	LOC 2998 3008	Matterhorn
+T72	LOC 3048 3053	Terre
+T73	MISC 3150 3155	laser
+T74	MISC 3170 3186	troupe de ballet
+T75	PER 3201 3220	Mikhail Baryshnikov
+T76	MISC 3240 3249	inventeur
+T77	MISC 3253 3270	trombone à papier
+T78	MISC 3324 3332	montagne
+T79	LOC 3351 3356	monde
+T80	MISC 3459 3473	Coupe Breeders
+T81	ORG 3504 3529	Ligue Majeure de baseball
+T82	MISC 3601 3606	Oscar
+T83	MISC 3665 3678	êtres humains
+T84	MISC 3718 3725	Tylenol
+T85	MISC 3749 3789	poème "The Midnight Ride of Paul Revere"
+T86	PER 3777 3788	Paul Revere
+T87	LOC 3822 3834	Pennsylvanie
+T88	LOC 3901 3912	San Antonio
+T89	LOC 3917 3922	Texas
+T90	LOC 3934 3942	Orénoque
+T91	LOC 3964 3977	îles Pribilof
+T92	LOC 4003 4012	Argentine
+T93	MISC 4068 4095	automobile à moteur rotatif
+T94	LOC 4110 4115	ville
+T95	MISC 4129 4140	Flintstones
+T96	LOC 4153 4157	pays
+T97	LOC 4168 4176	Pretoria
+T98	MISC 4190 4212	premier Afro-américain
+T99	MISC 4228 4253	prix Nobel de littérature
+T100	MISC 4277 4290	Coupe Stanley
+T101	MISC 4364 4386	compétition principale
+T102	MISC 4390 4393	vhs
+T103	PER 4421 4427	Hitler
+T104	LOC 4442 4447	ville
+T105	ORG 4460 4480	université de Purdue
+T106	MISC 4500 4509	naproxène
+T107	MISC 4524 4537	parc national
+T108	LOC 4547 4551	Utah
+T109	MISC 4570 4573	roi
+T110	PER 4574 4583	Louis XIV
+T111	MISC 4597 4608	Tchétchènes
+T112	PER 4609 4616	Staline
+T113	MISC 4647 4655	diamètre
+T114	MISC 4665 4672	galaxie
+T115	LOC 4716 4724	Lynmouth
+T116	MISC 4798 4811	arche Gateway
